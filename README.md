@@ -1,3 +1,3 @@
 # machine_learning_2025
 
-Worked third home work in branch third_task
+Fully worked seventh task
